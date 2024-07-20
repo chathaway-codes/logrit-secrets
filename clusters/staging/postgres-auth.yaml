@@ -5,7 +5,7 @@ data:
 kind: Secret
 metadata:
     creationTimestamp: null
-    name: basic-auth
+    name: postgres-auth
     namespace: postgres
 sops:
     kms: []
